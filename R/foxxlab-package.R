@@ -40,7 +40,7 @@
 #'
 #' @examples
 #' \dontrun{
-#'   head(spc_tbl_)
+#'   head(fvk2024)
 #' }
 #'
 #' @seealso
@@ -48,6 +48,5 @@
 #'
 #' @keywords dataset
 #' @export
-spc_tbl_
 
 "fvk2024"
