@@ -6,7 +6,7 @@
 \alias{foxxlab-package}
 \title{foxxlab: Data Package With Datasets From The Foxx Disrupting Ecology Lab}
 \description{
-This package contains several datasets from the Foxx Disrupting Ecology lab. These data span from plant ecology with plant traits, microbiome datasets, and metascience datasets.Most datasets are from associated published papers, with the goal to promote open and reproducible research.
+This package contains several datasets from the Foxx Disrupting Ecology lab. These data span from plant ecology with plant traits, microbiome datasets, and metascience datasets.Most datasets are from associated published papers, with the goal to promote open and reproducible research.This includes the datasets: fk2020a, fk2020b, f2021, f2022, and fvk2024.
 }
 \author{
 \strong{Maintainer}: Alicia Foxx \email{afoxx@chicagobotanic.org} (\href{https://orcid.org/0000-0001-5504-2986}{ORCID})
