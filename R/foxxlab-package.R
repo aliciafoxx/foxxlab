@@ -2,7 +2,7 @@
 
 #' Dataset Description
 #'
-#' This dataset contains information fvk2024 manuscript.
+#' This dataset contains information from the fvk2024 manuscript.
 #'
 #' @format A data frame with 432 rows and 28 variables:
 #'   \describe{

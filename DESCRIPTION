@@ -1,12 +1,11 @@
 Package: foxxlab
-Title: What the Package Does (One Line, Title Case)
-Version: 0.0.0.9000
+Title: Data Package With Datasets From The Foxx Disrupting Ecology Lab
+Version: 0.1.0
 Authors@R: 
-    person("First", "Last", , "first.last@example.com", role = c("aut", "cre"),
-           comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
-License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
-    license
+    person("Alicia", "Foxx", , "afoxx@chicagobotanic.org", role = c("aut", "cre"),
+           comment = c(ORCID = "0000-0001-5504-2986"))
+Description: This package contains several datasets from the Foxx Disrupting Ecology lab. These data span from plant ecology with plant traits, microbiome datasets, and metascience datasets.Most datasets are from associated published papers, with the goal to promote open and reproducible research.
+License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.1
