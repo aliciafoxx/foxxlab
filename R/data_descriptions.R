@@ -44,3 +44,31 @@
 #' }
 
 "fvk2024"
+
+#' Dataset Description
+#'
+#' This dataset contains information about [describe what your dataset is about].
+#'
+#' @format A data frame with 520 rows and 8 variables:
+#'   \describe{
+#'     \item{\code{Block}}{Numeric vector representing the block number.}
+#'     \item{\code{TubeNo}}{Numeric vector representing the tube number.}
+#'     \item{\code{Accession}}{Character vector representing the accession ID.}
+#'     \item{\code{Nutrient}}{Character vector representing the nutrient information.}
+#'     \item{\code{ColdStrat}}{Character vector representing the cold stratification date.}
+#'     \item{\code{GermDate}}{Character vector representing the germination date.}
+#'     \item{\code{ShootMass}}{Numeric vector representing the shoot mass.}
+#'     \item{\code{RootMass}}{Character vector representing the root mass.}
+#'   }
+#'
+#' @source [Provide the source of your dataset, if applicable]
+#'
+#' @examples
+#' \dontrun{
+#'   head(fk2020a)
+#' }
+#'
+#' @seealso
+#' [Optional: Link to related functions or datasets]
+
+"fk2020a"
