@@ -4,7 +4,7 @@ Version: 0.1.0
 Authors@R: 
     person("Alicia", "Foxx", , "afoxx@chicagobotanic.org", role = c("aut", "cre"),
            comment = c(ORCID = "0000-0001-5504-2986"))
-Description: This package contains several datasets from the Foxx Disrupting Ecology lab. These data span from plant ecology with plant traits, microbiome datasets, and metascience datasets.Most datasets are from associated published papers, with the goal to promote open and reproducible research.
+Description: This package contains several datasets from the Foxx Disrupting Ecology lab. These data span from plant ecology with plant traits, microbiome datasets, and metascience datasets.Most datasets are from associated published papers, with the goal to promote open and reproducible research.This includes the datasets: fk2020a, fk2020b, f2021, f2022, and fvk2024.
 License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
