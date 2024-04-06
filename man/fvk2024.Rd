@@ -45,15 +45,11 @@ A data frame with 432 rows and 28 variables:
 fvk2024
 }
 \description{
-This dataset contains information fvk2024 manuscript.
+This dataset contains information from the fvk2024 manuscript.
 }
 \examples{
 \dontrun{
   head(fvk2024)
 }
-
 }
-\seealso{
-\link{Optional: Link to related functions or datasets}
-}
-\keyword{dataset}
+\keyword{datasets}

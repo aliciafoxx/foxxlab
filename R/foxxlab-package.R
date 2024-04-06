@@ -42,11 +42,5 @@
 #' \dontrun{
 #'   head(fvk2024)
 #' }
-#'
-#' @seealso
-#' [Optional: Link to related functions or datasets]
-#'
-#' @keywords dataset
-#' @export
 
 "fvk2024"
