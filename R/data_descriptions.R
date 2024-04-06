@@ -47,7 +47,7 @@
 
 #' Dataset Description
 #'
-#' This dataset contains information about [describe what your dataset is about].
+#' This dataset contains information from the fk2020a dataset.
 #'
 #' @format A data frame with 520 rows and 8 variables:
 #'   \describe{
@@ -67,8 +67,6 @@
 #' \dontrun{
 #'   head(fk2020a)
 #' }
-#'
-#' @seealso
-#' [Optional: Link to related functions or datasets]
+
 
 "fk2020a"
