@@ -14,3 +14,4 @@ Depends:
 LazyData: true
 Imports: 
     tibble
+URL: https://aliciafoxx.github.io/foxxlab/
