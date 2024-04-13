@@ -119,6 +119,12 @@ foxxlab::fk2020b |>
 ## References
 
 <table>
+  <tr><td>Foxx AJ & Fort F (2019)
+  Root and shoot competition lead to contrasting competitive outcomes under water stress: A systematic review and meta-analysis.
+  <i>PLoS One</i>
+  <a href='https://doi.org/10.1371/journal.pone.0220674'>doi:10.1371/journal.pone.0220674</a>
+  </td></tr>
+
   <tr><td>Foxx AJ & Kramer A (2020a)
   Variation in number of root tips influences survival in competition with an invasive grass.
   <i>Journal of Arid Environments</i>
@@ -135,6 +141,12 @@ foxxlab::fk2020b |>
   Induced plasticity alters responses to conspecific interactions in seedlings of a perennial grass.
   <i>Scientific Reports</i>
   <a href='https://doi.org/10.1038/s41598-021-93494-0'>doi:10.1038/s41598-021-93494-0</a>
+  </td></tr>
+
+  <tr><td>Foxx AJ & Wojcik (2021)
+  Plasticity in response to soil texture affects the relationships between a shoot and root trait and responses vary by population.
+  <i>Folia Oecologia</i>
+  <a href='https://doi.org/10.2478/foecol-2021-0020'>doi:10.2478/foecol-2021-0020</a>
   </td></tr>
 
   <tr><td>Foxx AJ (2022)
