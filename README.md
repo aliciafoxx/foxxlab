@@ -43,34 +43,6 @@ foxxlab::fk2020b |>
 
 <img src="man/figures/pkgdown fig.png" width=50%/>
 
-
-## References
-
-<table>
-  <tr><td>Foxx AJ & Kramer A (2020a)
-  Variation in number of root tips influences survival in competition with an invasive grass.
-  <i>Journal of Arid Environments</i>
-  <a href='https://doi.org/10.1016/j.jaridenv.2020.104189'>doi:10.1016/j.jaridenv.2020.104189</a>
-  </td></tr>
-
-  <tr><td>Foxx AJ & Kramer A (2020b)
-  Hidden variation: cultivars and wild plants differ in trait variation with surprising root trait outcomes.
-  <i>Restoration Ecology</i>
-  <a href='https://doi.org/10.1111/rec.13336'>doi:10.1111/rec.13336</a>
-  </td></tr>
-
-  <tr><td>Foxx AJ (2021)
-  Induced plasticity alters responses to conspecific interactions in seedlings of a perennial grass.
-  <i>Scientific Reports</i>
-  <a href='https://doi.org/10.1038/s41598-021-93494-0'>doi:10.1038/s41598-021-93494-0</a>
-  </td></tr>
-
-  <tr><td>Foxx AJ (2022)
-  Species variability in the relative strength of intraspecific and interspecific interactions.
-  <i>Folia Oecologia</i>
-  <a href='https://doi.org/10.2478/foecol-2022-0019'>doi:10.2478/foecol-2022-0019</a>
-  </td></tr>
-=======
 # foxxlab <img src="man/figures/hex-foxxlab.png" align="right" width="120" />
 
 ### Overview
@@ -154,4 +126,3 @@ foxxlab::fk2020b |>
   <i>Folia Oecologia</i>
   <a href='https://doi.org/10.2478/foecol-2022-0019'>doi:10.2478/foecol-2022-0019</a>
   </td></tr>
->>>>>>> c3f7f2fe03554c3b227d58d851baed28cf09a234
