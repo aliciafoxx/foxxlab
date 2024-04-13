@@ -32,10 +32,6 @@
 #'     \item{\code{total_mass}}{Numeric vector representing the total mass.}
 #'     \item{\code{rmf}}{Numeric vector representing the RMF.}
 #'     \item{\code{primary_root_count}}{Numeric vector representing the primary root count.}
-#'     \item{\code{sqrt_root_mass}}{Numeric vector representing the square root of root mass.}
-#'     \item{\code{sqrt_shoot_mass}}{Numeric vector representing the square root of shoot mass.}
-#'     \item{\code{asin_leaf_width}}{Numeric vector representing the arcsine of leaf width.}
-#'     \item{\code{sqrt_total_mass}}{Numeric vector representing the square root of total mass.}
 #'   }
 #'
 #' @source [Provide the source of your dataset, if applicable]

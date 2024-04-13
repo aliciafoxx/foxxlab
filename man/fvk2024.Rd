@@ -45,7 +45,10 @@ A data frame with 432 rows and 28 variables:
 fvk2024
 }
 \description{
-This dataset contains information from the fvk2024 manuscript.
+This dataset contains information from the Sporobolus airoides project:
+}
+\details{
+Abstract: Exposure to competition from invasive plants over multiple generations, or multigenerational invasive exposure can drive rapid native plant trait change. While invasive plant effects can be concentrated belowground, few studies consider native plant root trait responses to multigenerational invasive exposure.  So here we quantified root and shoot trait responses of the native grass Sporobolus airoides in response to multigenerational invasive exposure. S. airoides was sourced from invader-experienced subpopulations that co-occurred in the field for 58 years on average with invasive Russian knapweed (Rhaponticum repens) and from nearby invader-naïve plants that did not co-occur with the invasive. Maternal plants of these subpopulations were collected in, and transplanted to a greenhouse in Wyoming, USA. The first generation of seeds from these transplants were collected and grown for another round of seed collection (generation two). We grew invader-experienced and invader-naïve seedlings from both generations in a growth chamber in Illinois, USA. We found the largest shifts in root traits with invasive exposure status (e.g., for root mass fraction (standardized mean difference (SMD) = 0.5), primary root count (SMD) = 0.52), root length (SMD) = 0.44)); invader-experienced plants had significantly larger root traits in generation two, which were associated with greater survival, and thus may be adaptive.  Since invader-experienced accessions have been evaluated as valuable restoration material in invaded sites, these findings highlight the need for continued root research in multigenerational invasive plant interactions and the need to evaluate more than one generation removed from a biotic influence.
 }
 \examples{
 \dontrun{

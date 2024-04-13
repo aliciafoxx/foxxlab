@@ -31,7 +31,10 @@ https://onlinelibrary.wiley.com/doi/abs/10.1111/rec.13336
 fk2020b
 }
 \description{
-This dataset contains information about from the fk2020b publication.
+This dataset contains information from the Pseudoroegneria spicata dataset:
+}
+\details{
+Abstract: Restoration practitioners have many seed material choices when restoring plant communities, and cultivars may be the most affordable and accessible material available for some species. However, the process of plant selection and commercial seed production can limit trait variability critical to survival and persistence in heterogeneous environments. Several studies show the impacts of plant selection and commercial production on trait values and variation in aboveground traits. Yet, researchers rarely assess impacts on root traits in wild-collected material relative to cultivars. This is a critical gap, especially in arid environments where root traits play key roles in plant survival. We grew Pseudoroegneria spicata seedlings from three wild accessions and three cultivars (the cultivars “Whitmar” and “Goldar,” and the “selected germplasm polycross” “P-7”) to compare root and shoot traits and variability. We grew seedlings in a growth chamber for 4 weeks in sand, which had low moisture content and few added nutrients, resulting in stressful conditions. We harvested the plants and compared trait variation and averages between wild-collected versus cultivars for four shoot and four root traits. We found that wild accessions had marginally greater variation in root tip count, root mass fraction, and shoot mass fraction. Importantly, wild-collected plants had 51\% more root tips on average, greater variability in four of seven traits that exhibited differing variability between collection types, and greater survival compared to cultivars. These results indicate differences in traits and variation in wild and cultivated accessions that should be considered when choosing material for restoration use.
 }
 \examples{
 \dontrun{

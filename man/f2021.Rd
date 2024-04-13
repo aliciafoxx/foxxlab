@@ -33,7 +33,10 @@ A data frame with 87 rows and 17 variables:
 f2021
 }
 \description{
-This dataset contains information from the f2021 dataset.
+This dataset contains information from the Pascopyrum smithii dataset.
+}
+\details{
+Abstract: Plants can interact with different individuals in their lifetime which may lead to plastic response that affect performance. If conspecific interactions are altered through previous plastic responses that could affect stabilizing niche mechanisms, in which conspecifics compete more intensely to promote diversity and coexistence. Here, I show interactions between Pascopyrum smithii and conspecifics resulted in largely canalized traits, whereas P. smithii with an invasive grass, Bromus tectorum resulted in plastic responses for root mass (p = 0.02), shoot mass (p < 0.0001), root mass fraction (p = 0.003) and plant height (p < 0.0001). A subset of individuals transplanted from these two interaction treatments which were moved with new, same aged conspecifics showed that previous interactions led to differing trait relationships: increases in the number of leaves for the interspecific-induced plants were related to increases in non-focal leaf production, whereas increases in the number of leaves for the intraspecific-induced plants were related to decreases in the non-focal plants (R2 = 0.52, p = 0.006). These results suggest that previous intraspecific interactions intensify conspecific competition and stabilize subsequent interactions with conspecifics by imposing greater competition, and that invasive-interspecific interactions can weaken stabilizing niche mechanisms, thus negatively influencing species coexistence.
 }
 \examples{
 \dontrun{

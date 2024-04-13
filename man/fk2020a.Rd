@@ -24,7 +24,10 @@ A data frame with 520 rows and 8 variables:
 fk2020a
 }
 \description{
-This dataset contains information from the fk2020a dataset.
+This dataset contains information from the Elymus elymoides dataset
+}
+\details{
+Abstract: Roots are the first line for interactions between plants and the soil environment. Understanding root traits has important implications for species used in arid land restoration. Intraspecific root trait variation can have important competitive and performance ramifications that can impact the ability of a population to establish. So, we tested whether populations exhibit variation in number of root tips and whether root tip variation leads to differential interaction outcomes. We grew seedlings of eight Elymus elymoides populations from the western United States in vitro, and selected two populations with contrasting number of root tips for a greenhouse competition study with an invasive annual grass (Bromus tectorum) to assess whether differences in number of root tips affected Elymus elymoides seedling performance under competition. We found significant variation in number of root tips by population and the population with the greatest number of root tips (x̄= 16.3 ± 8.9) had a higher proportion of individuals survive longer in competition with Bromus tectorum than the population with fewer root tips (x̄= 7.5 ± 3.1). These results highlight the need for research on intraspecific trait variation in roots for species commonly used in restoration projects to help guide the selection of appropriate source material in dry environments.
 }
 \examples{
 \dontrun{

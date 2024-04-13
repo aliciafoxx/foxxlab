@@ -34,7 +34,10 @@ A data frame with 483 rows and 18 variables:
 f2022
 }
 \description{
-This dataset contains information from the f2022 dataset.
+This dataset contains information from the native herbaceous competition dataset.
+}
+\details{
+Abstract: Understanding cases in restoration and in agriculture in which species diversity improves productivity and ecosystem functioning is crucial due the need to restore degraded habitat and improve crop productivity for a growing human population. Reaching these diversity benefits is likely influenced by the dynamic of less negative interspecific than intraspecific interactions that promote diversity. But further testing is needed to understand the relationship of intraspecific-relative to interspecific interactions. Here I used seedlings from three native and one introduced species used in restoration in the western United States in pairwise interaction combinations and found that the study species varied in shoot biomass in response to interaction treatments of the control, intraspecific, and interspecific interactions (R2 = 0.7, p < 0.001), and that intraspecific interactions were more negative than interspecific interactions for four of five of the pairings. Overall, as shoot mass size differences increased between interspecific neighbors, interactions became more positive (R2 = 0.6, p < 0.001). These findings point to variability in species responses in whether the focal species compete more intensely with conspecific or heterospecific neighbors and indicates the need for more careful selection of interacting species for meeting both agricultural and restoration goals.
 }
 \examples{
 \dontrun{
