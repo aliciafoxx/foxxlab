@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # foxxlab <img src="man/figures/hex-foxxlab.png" align="right" width="120" />
 
 ### Overview
