@@ -1,6 +1,6 @@
 Package: foxxlab
 Title: Data Package With Datasets From The Foxx Disrupting Ecology Lab
-Version: 0.1.0
+Version: 0.2.0
 Authors@R: 
     person("Alicia", "Foxx", , "afoxx@chicagobotanic.org", role = c("aut", "cre"),
            comment = c(ORCID = "0000-0001-5504-2986"))
