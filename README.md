@@ -41,49 +41,6 @@ foxxlab::fk2020b |>
   scale_fill_brewer(palette = 'Dark2')
 ```
 
-<img src="man/figures/pkgdown fig.png" width=50%/>
-
-# foxxlab <img src="man/figures/hex-foxxlab.png" align="right" width="120" />
-
-### Overview
-
-**foxxlab** is an R package providing a library of datasets from the Foxx Disrupting Ecology Lab, ranging from plant ecology to social science topics. 
-
-Currently, **foxxlab** offers a variety of datastes including meta-analysis datasets to promote open science and serve as training materials for visualizations and analyses including meta-analyses.
-
-
-### Installation
-
-
-* Install latest development version from GitHub (requires [devtools](https://github.com/aliciafoxx/foxxlab) package):
-
-```r
-if (!require("devtools")) {
-  install.packages("devtools")
-}
-devtools::install_github("aliciafoxx/foxxlab", dependencies = TRUE, build_vignettes = T)
-```
-
-### Example
-
-A visualization example of the fk2020b dataset in foxxlab:
-
-```r
-library(foxxlab)
-library(ggrain)
-library(dplyr)
-library(ggplot2)
-
-
-foxxlab::fk2020b |>
-  dplyr::rename(`height (mm)` = Height_.mm.) |>
-  ggplot(aes(1, `height (mm)`,
-             fill = Collection_type)) +
-  ggrain::geom_rain(alpha = .5) +
-  theme_classic() +
-  xlab("variation") +
-  scale_fill_brewer(palette = 'Dark2')
-```
 
 <img src="man/figures/pkgdown fig.png" width=50%/>
 
